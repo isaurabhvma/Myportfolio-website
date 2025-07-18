@@ -37,7 +37,7 @@ I'm a Computer Science student and a self-motivated front-end developer who love
 
 ## 📬 Contact Me
 
-📧 saurabh@example.com  
+📧 saurabhvermatem@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/saurabhvma88)  
 🌍 [GitHub](https://github.com/isaurabhvma)
 
